@@ -199,6 +199,15 @@ git remote add origin https://github.com/mydaozun/doc.git
 ```sh [pnpm推送项目到github]
 git push -u origin master
 ```
+```sh [pnpm教程文档]
+echo "# doc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mydaozun/doc.git
+git push -u origin main
+```
 :::
 
 # deploy脚本
