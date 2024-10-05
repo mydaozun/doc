@@ -32,6 +32,45 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+/* h2标题样式 */
+h2 {
+  background: -webkit-linear-gradient(10deg, #04b0ff 5%, #00ff11 15%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* h3标题样式 */
+h3 {
+  background: -webkit-linear-gradient(10deg, #00ec1f 5%, #e43498 15%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* h4标题样式 */
+h4 {
+  background: -webkit-linear-gradient(10deg, #e97603 5%, #e43498 15%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* h5标题样式 */
+h5 {
+  background: -webkit-linear-gradient(10deg, #71fe34 5%, #07adef 15%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* h6标题样式 */
+h6 {
+  background: -webkit-linear-gradient(10deg, #f70582 5%, #f1e907 15%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
 /* medium样式 */
 .medium-zoom-overlay {
