@@ -156,6 +156,28 @@ export default defineConfig({
           },
         ],
       },
+      {        
+        text: '道尊',
+        items: [
+          {
+            //分组标题1
+            text: '文档1',
+            items: [
+              {text: '文档1',link: '/jiaocheng'},
+              {text: 'bilibili',link: '/jiaocheng/biliable-zpe5le'},
+              
+            ],
+          },
+          {
+            //分组标题2
+            text: '哔哩哔哩',
+            items: [
+              {text: '文档1',link: '/jiaocheng'},
+              {text: 'bilibili',link: '/jiaocheng/biliable-zpe5le'},
+            ],
+          },          
+        ],
+      },
       { text: '个人记录', link: '/jiaocheng' },
       { text: `VitePress ${ devDependencies.vitepress.replace('^','') }`, link: 'https://vitepress.dev/zh/', noIcon: true },
       {text: '更新日志', link: '/changelog.md'},
