@@ -21,8 +21,10 @@ hero:
 
 features:
   - icon: 📝
-    title: 专注于您的内容
-    details: 只需使用 Markdown 即可轻松创建精美的文档网站
+    title: 每日60秒早报
+    details: 每日的60秒早报接口,每天凌晨一点更新，已稳定运行两年
+    link: '/60s'
+    linkText: vite
   - icon: 
       dark: /vitepress.png
       light: /vitepress-light.png
