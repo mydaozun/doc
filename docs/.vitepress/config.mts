@@ -178,7 +178,7 @@ export default defineConfig({
           },          
         ],
       },
-      { text: '个人记录', link: '/jiaocheng' },
+      { text: '60S看世界', link: '/60s' },
       { text: `VitePress ${ devDependencies.vitepress.replace('^','') }`, link: 'https://vitepress.dev/zh/', noIcon: true },
       {text: '更新日志', link: '/changelog.md'},
     ],
