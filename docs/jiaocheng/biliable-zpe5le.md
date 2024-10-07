@@ -9,7 +9,13 @@ next: false
 ---
 
 # bilibili
-
+## 哔哩哔哩
 ‍
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=113095095616843&amp;bvid=BV1bnptekE49&amp;cid=25772819708&amp;p=1" data-src="//player.bilibili.com/player.html?isOutside=true&amp;aid=113095095616843&amp;bvid=BV1bnptekE49&amp;cid=25772819708&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 687px; height: 386px;"></iframe>
+<iframe 
+style="width:100%; aspect-ratio:16/9; margin-top: 2em;" 
+src="//player.bilibili.com/player.html?bvid=BV1bnptekE49" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
