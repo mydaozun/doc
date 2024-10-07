@@ -231,7 +231,7 @@ allowfullscreen>
 
 <iframe 
 style="width:100%; aspect-ratio:16/9; margin-top: 2em;" 
-src="//player.bilibili.com/player.html?bvid=BV1YptMeMEcV" 
+src="//player.bilibili.com/player.html?bvid=BV1bnptekE49" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 allowfullscreen>
