@@ -222,11 +222,12 @@ export default defineConfig({
         ],
       },
       {
-        //分组标题3
+        //分组标题4
         text: '其他站点',
         collapsed: false,
         items: [
-          { text: '1', link: '/' },
+          { text: '装机必备', link: '/jiaocheng' },
+          { text: '云存储', link: '/jiaocheng/s3' },
           { text: '2', link: '/' },
           { text: '3', link: '/' },
         ],
