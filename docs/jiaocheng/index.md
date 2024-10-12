@@ -37,3 +37,7 @@
 
 >BSC【bnb】：https://bscscan.com/
 
+### 区块链导航站
+<Linkcard url="https://www.0xdh.vip/" title="0xdh" description="币圈导航" logo="https://www.0xdh.vip/wp-content/uploads/2023/08/Favicon.ico"/>
+
+<Linkcard url="https://www.biquandh.com/" title="biquandh" description="币圈导航" logo="https://www.biquandh.com/wp-content/uploads/2022/12/favicon-1.png"/>
