@@ -161,9 +161,9 @@ export default defineConfig({
         items: [
           {
             //分组标题1
-            text: '文档1',
+            text: 'BTC',
             items: [
-              {text: '文档1',link: '/jiaocheng'},
+              {text: '虚拟货币',link: '/jiaocheng'},
               {text: 'bilibili',link: '/jiaocheng/biliable-zpe5le'},
               
             ],
@@ -172,7 +172,7 @@ export default defineConfig({
             //分组标题2
             text: '哔哩哔哩',
             items: [
-              {text: '文档1',link: '/jiaocheng'},
+              {text: '虚拟货币',link: '/jiaocheng'},
               {text: 'bilibili',link: '/jiaocheng/biliable-zpe5le'},
             ],
           },          
@@ -226,9 +226,9 @@ export default defineConfig({
         text: '其他站点',
         collapsed: false,
         items: [
-          { text: '装机必备', link: '/jiaocheng' },
+          { text: 'BTC', link: '/jiaocheng' },
           { text: '云存储', link: '/jiaocheng/s3' },
-          { text: '2', link: '/' },
+          { text: '装机必备', link: '/' },
           { text: '3', link: '/' },
         ],
       },
