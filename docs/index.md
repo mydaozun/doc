@@ -38,6 +38,11 @@ features:
   - icon: 🚀
     title: 快速发布网站
     details: 使用静态 HTML 进行快速初始加载，使用客户端路由进行快速加载后导航
+  - icon: <a href="https://emoji.gg/emoji/3269-rainbowbitcoin"><img src="https://cdn3.emoji.gg/emojis/3269-rainbowbitcoin.gif" width="64px" height="64px" alt="RainbowBitcoin"></a>
+    title: BTC
+    details: BTC虚拟货币相关
+    link: '/jiaocheng'
+    linkText: vite
 ---
 
 <HomeUnderline />
