@@ -189,7 +189,7 @@ export default defineConfig({
       {
         //分组标题1
         text: '介绍',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '前言', link: '/preface' },
         ],
@@ -197,7 +197,7 @@ export default defineConfig({
       {
         //分组标题2
         text: '基础配置',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '快速上手', link: '/getting-started' },
           { text: '配置', link: '/configuration' },
@@ -208,7 +208,7 @@ export default defineConfig({
       {
         //分组标题3
         text: '进阶玩法',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Markdown', link: '/markdown' },
           { text: '团队', link: '/team' },
