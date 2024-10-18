@@ -26,6 +26,8 @@
 <Linkcard url="https://web3antivirus.io/" title="Web3 Antivirus" description="保护您的加密钱包免受网络钓鱼和诈骗交易" logo="https://web3antivirus.io/images/favicon.png"/>
 
 <Linkcard url="https://www.broadcom.cn/" title="Symantec Browser Protection" description="赛门铁克浏览器保护插件" logo="https://www.broadcom.cn/favicon.png"/>
+
+<Linkcard url="https://www.okx.com/zh-hans/web3/explorer/tools" title="OKX Web3 链上工具集" description="Web3 链上工具集" logo="https://static.okx.com/cdn/assets/imgs/226/EB771F0EE8994DD5.png"/>
     
 ### 区块链浏览器（撤销授权用）
 
