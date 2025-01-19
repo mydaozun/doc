@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>利润计算器</title>
+    <title>Profit Calculator</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -36,35 +36,35 @@
             margin-top: 20px;
             font-size: 18px;
         }
-      .profit-positive {
+     .profit-positive {
             color: #ed00ff;
             font-weight: bold;
         }
-      .profit-negative {
+     .profit-negative {
             color: #ffae00;
             font-weight: bold;
         }
-      .buy-price {
+     .buy-price {
             color: #008000;
         }
-      .sell-price {
+     .sell-price {
             color: #ff0000;
         }
-      .balance {
-            color: #ff0000;
+     .balance {
+            color: #fff000;
         }
-      .profit-percentage-positive {
+     .profit-percentage-positive {
             color: #ed00ff;
             font-weight: bold;
         }
-      .profit-percentage-negative {
+     .profit-percentage-negative {
             color: #ffae00;
             font-weight: bold;
         }
     </style>
 </head>
 <body>
-    <h1>利润计算器</h1>
+    <h1>计算器</h1>
     <div>
         <label for="buyAmount">买入金额 ($):</label>
         <input type="number" id="buyAmount" step="0.01" required>
@@ -126,7 +126,7 @@
                 resultText += '<p class="profit-percentage-negative">利润百分比: ' + profitPercent.toFixed(20) + '%</p>';
             }
 
-            resultText += '<p class="balance">你的余额: ￥' + balance.toFixed(20) + '</p>';
+            resultText += '<p class="balance">你的余额: $' + balance.toFixed(20) + '</p>';
 
             // 显示利润结果
             var resultDiv = document.getElementById('result');
