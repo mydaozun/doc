@@ -172,7 +172,7 @@ export default defineConfig({
             //分组标题2
             text: '教程',
             items: [
-              {text: 'M3U8合并',link: '/M3U8'},
+              {text: 'M3U8合并',link: '/m3u8'},
               {text: 'bilibili',link: '/jiaocheng/biliable-zpe5le'},
             ],
           },          
