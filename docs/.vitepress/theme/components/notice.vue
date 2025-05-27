@@ -8,33 +8,10 @@ function closetz() {
 
 setTimeout(function () { visible.value = false }, 5000);
 </script>
-/*
-<template>
-    <div v-if="visible" class="notice-background" style="display: block;"></div>
 
-    <div v-if="visible" class="notice">
+/* 网站公告 */
 
-        <h3 class="notice-title">网站公告</h3>
 
-        <div class="notice-describe">
-            <p>本次更新：新公告样式</p>
-            <p class="notice-domain">
-                <strong>
-                    详细教程：<a href="https://doc.52cbg.cn"
-                        target="_blank">道尊的文档博客</a>
-                </strong>
-            </p>
-            <p>QQ 频道：******(无效二维码)</p>
-            <img class="notice-img" src="/qrcode.png">
-        </div>
-
-        <div class="notice-footer">
-            <div class="notice-btn" @click="closetz">朕知道了</div>
-        </div>
-
-    </div>
-</template>
-*/
 <style scoped>
 .notice-img {
     z-index: 9999
