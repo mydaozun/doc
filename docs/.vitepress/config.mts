@@ -228,8 +228,8 @@ export default defineConfig({
         items: [
           { text: 'BTC', link: '/jiaocheng' },
           { text: '云存储', link: '/jiaocheng/s3' },
-          { text: '装机必备', link: '/' },
-          { text: '3', link: '/' },
+          { text: 'http.server', link: '/m3u8' },
+          { text: '茂神', link: '/nav/mao' },
         ],
       },
       {
@@ -239,8 +239,9 @@ export default defineConfig({
         items: [
           { text: 'python', link: '/yuanma/python' },
           { text: 'html', link: '/yuanma/htm' },
+          { text: 'bat', link: '/yuanma/bat' },
           { text: 'github源码', link: '/yuanma/github' },
-          { text: '源码', link: '/' },
+          { text: '源码', link: '/yuanma' },
         ],
       },
     ],
