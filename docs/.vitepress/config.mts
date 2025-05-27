@@ -232,6 +232,17 @@ export default defineConfig({
           { text: '3', link: '/' },
         ],
       },
+      {
+        //分组标题5
+        text: '源码地带',
+        collapsed: true,
+        items: [
+          { text: '源码', link: '/yuanma/python' },
+          { text: '源码', link: '/' },
+          { text: '源码', link: '/' },
+          { text: '源码', link: '/' },
+        ],
+      },
     ],
 
 
