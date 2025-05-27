@@ -239,7 +239,7 @@ export default defineConfig({
         items: [
           { text: 'python', link: '/yuanma/python' },
           { text: 'html', link: '/yuanma/htm' },
-          { text: 'github源码', link: '/github' },
+          { text: 'github源码', link: '/yuanma/github' },
           { text: '源码', link: '/' },
         ],
       },
