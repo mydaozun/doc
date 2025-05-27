@@ -1173,7 +1173,7 @@ export default defineConfig({
   themeConfig: {
     //编辑本页 // [!code focus:5]
     editLink: { 
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path', // 改成自己的仓库
+      pattern: 'https://github.com/mydaozun/doc/edit/main/docs/:path', // 改成自己的仓库
       text: '在GitHub编辑本页'
     },
   },
