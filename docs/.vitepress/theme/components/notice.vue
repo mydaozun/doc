@@ -8,7 +8,7 @@ function closetz() {
 
 setTimeout(function () { visible.value = false }, 5000);
 </script>
-
+/*
 <template>
     <div v-if="visible" class="notice-background" style="display: block;"></div>
 
@@ -34,7 +34,7 @@ setTimeout(function () { visible.value = false }, 5000);
 
     </div>
 </template>
-
+*/
 <style scoped>
 .notice-img {
     z-index: 9999
