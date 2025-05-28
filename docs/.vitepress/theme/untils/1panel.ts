@@ -81,13 +81,13 @@ export const NAV_DATA: NavData[] = [
     title: '甲骨文部署站点导航',
     items: [
       {
-        icon: '/logo.png',
+        icon: 'https://1panel.cn/docs/img/logo-white.png',
         title: '1panel后台',
         desc: '1panel后台登录',
         link: 'http://140.245.32.16:23371/1panel'
       },
       {
-        icon: '/logo.png',
+        icon: 'https://static.hdslb.com/mobile/img/512.png',
         title: 'B站视频下载',
         desc: '用DOCKER部署的B站视频下载器',
         link: 'http://140.245.32.16:5173'
@@ -99,7 +99,7 @@ export const NAV_DATA: NavData[] = [
         link: 'http://140.245.32.16:5001'
       },
       {
-        icon: '/logo.png',
+        icon: 'https://b3log.org/siyuan/static/logo.svg',
         title: '思源笔记',
         desc: '部署在1panel上的思源笔记',
         link: 'http://140.245.32.16:6806'
@@ -117,7 +117,7 @@ export const NAV_DATA: NavData[] = [
         link: 'http://140.245.32.16:4396'
       },
       {
-        icon: 'https://nextjs.org/static/favicon/safari-pinned-tab.svg',
+        icon: 'https://min.io/resources/img/logo.svg',
         title: 'minio S3存储桶',
         desc: '搭建在VPS上的S3存储桶',
         link: 'http://140.245.32.16:9001'
@@ -141,43 +141,43 @@ export const NAV_DATA: NavData[] = [
     title: '搭建的网站',
     items: [
       {
-        icon: 'https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png',
+        icon: '/logo.png',
         title: 'adguardHOME',
         desc: '服务器上部署的adguardHOME',
         link: 'https://ad.52cbg.cn'
       },
       {
-        icon: '/icons/taro.svg',
+        icon: '/logo.png',
         title: '大强说副业',
         desc: '',
         link: 'http://v.52cbg.cn'
       },
       {
-        icon: 'https://web-assets.dcloud.net.cn/unidoc/zh/icon.png',
+        icon: '/logo.png',
         title: 'webdav',
         desc: '',
         link: 'https://webdav.52cbg.cn/'
       },
       {
-        icon: 'https://mpxjs.cn/favicon.ico',
+        icon: '/logo.png',
         title: '订阅编辑',
         desc: 'CF-Workers-SUB订阅编辑',
         link: 'https://cloud.52cbg.cn/adminroot'
       },
       {
-        icon: 'https://www.webpackjs.com/icon_180x180.png',
+        icon: '/logo.png',
         title: 'cloud盘',
         desc: '',
         link: 'https://pan.52cbg.cn/'
       },
       {
-        icon: 'https://cn.vitejs.dev/logo.svg',
+        icon: '/logo.png',
         title: '利润计算器',
         desc: '',
         link: 'https://gj.52cbg.cn/'
       },
       {
-        icon: 'https://www.rollupjs.com/img/favicon.png',
+        icon: '/logo.png',
         title: 'DOC文档',
         desc: '',
         link: 'https://doc.52cbg.cn/'
