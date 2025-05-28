@@ -50,7 +50,7 @@ features:
   - icon: 🚀
     title: 快速发布网站
     details: 在服务器上搭建的各种小应用
-    link: '/mb'
+    link: '/1panel'
     linkText: vite
 
 ---
