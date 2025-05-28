@@ -83,7 +83,7 @@ export const NAV_DATA: NavData[] = [
         title: '思源笔记',
         desc: '部署在1panel上的思源笔记',
         link: 'http://140.245.32.16:6806'
-      }
+      },
       {
         icon: 'https://zh-hans.reactjs.org/favicon.ico',
         title: 'uptime',
@@ -143,7 +143,7 @@ export const NAV_DATA: NavData[] = [
         title: '订阅编辑',
         desc: 'CF-Workers-SUB订阅编辑',
         link: 'https://cloud.52cbg.cn/adminroot'
-      }
+      },
       {
         icon: 'https://www.webpackjs.com/icon_180x180.png',
         title: 'cloud盘',
