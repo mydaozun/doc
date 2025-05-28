@@ -25,6 +25,26 @@ export const NAV_DATA: NavData[] = [
         link: 'https://github.com/2977094657/BiliHistoryFrontend'
       },
       {
+        icon: 'https://www.youtube.com/s/desktop/014dbbed/img/favicon_48x48.png',
+        title: 'FDM下载器',
+        badge: {
+          text: '油管下载器',
+          type: 'warning',
+        },
+        desc: '這是一款在Windows, macOS, Android 及Linux 作業系統下，強大又現代的下载加速器。',
+        link: 'https://www.freedownloadmanager.org/zh/download.htm'
+      },
+       {
+        icon: 'https://www.youtube.com/s/desktop/014dbbed/img/favicon_48x48.png',
+        title: 'FDM 的第三方附加组件',
+        badge: {
+          text: '油管下载器',
+          type: 'warning',
+        },
+        desc: '免费下载管理器附加组件。支持从各种站点下载视频',
+        link: 'https://github.com/meowcateatrat/elephant'
+      },
+      {
         icon: 'https://devtool.tech/logo.svg',
         title: '开发者武器库',
         badge: {
