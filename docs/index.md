@@ -50,6 +50,7 @@ features:
     title: 快速发布网站
     details: 在服务器上搭建的各种小应用
     link: '/mb'
+    linkText: vite
   - icon: <a href="https://emoji.gg/emoji/3269-rainbowbitcoin"><img src="https://cdn3.emoji.gg/emojis/3269-rainbowbitcoin.gif" width="64px" height="64px" alt="RainbowBitcoin"></a>
 ---
 
