@@ -200,8 +200,7 @@ export const NAV_DATA: NavData[] = [
       }
     ]
   },
-  
-  
+
   {
     title: '摸鱼专用',
     items: [
@@ -229,18 +228,6 @@ export const NAV_DATA: NavData[] = [
         // desc: '',
         link: 'https://www.youtube.com'
       },
-      {
-        icon: '/icons/twitter.svg',
-        title: 'Twitter',
-        // desc: '',
-        link: 'https://twitter.com'
-      },
-      {
-        icon: '/icons/pixiv.png',
-        title: 'Pixiv',
-        // desc: '',
-        link: 'https://www.pixiv.net'
-      }
     ]
-  }
+  },
 ]
