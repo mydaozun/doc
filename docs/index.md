@@ -37,6 +37,7 @@ features:
     details: 直接在 Markdown 中使用 Vue 语法和组件，或使用 Vue 构建自定义主题
     link: https://yiov.top/
     linkText: Vite
+  - icon: <a href="https://emoji.gg/emoji/3269-rainbowbitcoin"><img src="https://cdn3.emoji.gg/emojis/3269-rainbowbitcoin.gif" width="64px" height="64px" alt="RainbowBitcoin"></a>    
     title: BTC
     details: BTC虚拟货币相关
     link: '/jiaocheng'
@@ -51,7 +52,7 @@ features:
     details: 在服务器上搭建的各种小应用
     link: '/mb'
     linkText: vite
-  - icon: <a href="https://emoji.gg/emoji/3269-rainbowbitcoin"><img src="https://cdn3.emoji.gg/emojis/3269-rainbowbitcoin.gif" width="64px" height="64px" alt="RainbowBitcoin"></a>
+
 ---
 
 <HomeUnderline />
