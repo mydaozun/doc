@@ -134,6 +134,12 @@ export const NAV_DATA: NavData[] = [
         desc: '一个敏感的信息挖掘工具，可以从网站、微信公众号、社交平台提炼肇，自动做标签归类上传数据库',
         link: 'http://140.245.32.16:8090'
       },
+      {
+        icon: 'https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png',
+        title: '提示词优化器',
+        desc: '一个提示词优化器',
+        link: 'http://140.245.32.16:8081'
+      },
     ]
   },
  
