@@ -140,6 +140,12 @@ export const NAV_DATA: NavData[] = [
         desc: '一个提示词优化器',
         link: 'http://140.245.32.16:8081'
       },
+       {
+        icon: 'https://telegraph-image-e9z.pages.dev/favicon.ico',
+        title: 'TG图床',
+        desc: 'Telegram图床',
+        link: 'https://tc.52cbg.cn/'
+      },
     ]
   },
  
