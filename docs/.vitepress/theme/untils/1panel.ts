@@ -146,6 +146,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'Telegram图床',
         link: 'https://tc.52cbg.cn/'
       },
+       {
+        icon: 'https://telegraph-image-e9z.pages.dev/favicon.ico',
+        title: 'astrBot',
+        desc: '聊天机器人',
+        link: 'http://140.245.32.16:6185/'
+      },
     ]
   },
  
